@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#030008">
+  <title>Particle Heart ❤️</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <canvas id="canvas"></canvas>
+
+  <main class="content">
+    <header>
+      <h1>PARTICLE HEART</h1>
+      <p class="subtitle">A LITTLE HEART MADE OF LIGHT ❤️</p>
+    </header>
+
+    <footer>
+      <div class="controls">
+        <button id="toggle">TẠM DỪNG</button>
+        <button id="color">ĐỔI MÀU ✨</button>
+        <button id="burst">TAN BIẾN 💫</button>
+      </div>
+      <p class="footer-text">MADE WITH LOVE</p>
+    </footer>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
